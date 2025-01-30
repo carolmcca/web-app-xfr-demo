@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+**/__pycache__/
+*/images/
+*/example_images/
+
+.env.dev
+.env

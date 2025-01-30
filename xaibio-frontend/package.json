@@ -1,0 +1,30 @@
+{
+  "name": "xaibio-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/vue-fontawesome": "^3.0.6",
+    "axios": "^1.7.2",
+    "chart.js": "^4.4.2",
+    "core-js": "^3.8.3",
+    "primeicons": "^4.1.0",
+    "primevue": "^3.51.0",
+    "v-click-outside": "^3.2.0",
+    "vue": "^3.2.13",
+    "vue-cookies": "^1.8.4",
+    "vue-router": "^4.0.3",
+    "vue-tour": "^2.0.0",
+    "vue3-tour": "^1.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "^5.0.8"
+  }
+}
