@@ -3,6 +3,8 @@
 ## About
 Implementation of the paper "An Integrated and User-friendly Platform for the Deployment of Explainable Artificial Intelligence Methods Applied to Face Recognition" by Carolina Albuquerque, Pedro C. Neto, Tiago Gonçalves, and Ana F. Sequeira. This publication resulted from Carolina's MSc dissertation ["An integrated and user-friendly platform for  the deployment of explainable Artificial Intelligence methods applied to Face Recognition"](https://hdl.handle.net/10216/160960), which contains additional details and information.
 
+Please refer to the [Hugging Face repository](https://huggingface.co/tiagofilipesousagoncalves/web-app-xfr-demo) for the face recognition model's weights.
+
 
 
 ## Description
